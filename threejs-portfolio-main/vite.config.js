@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Kalyan-Portfolio-main/', // <-- Notice the starting and ending slashes
+  base: '/', // <-- Notice the starting and ending slashes
   plugins: [react()],
 });
